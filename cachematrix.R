@@ -3,7 +3,7 @@
 ## inverse matrix for reuse, and calculating the inverse matrix, and using
 ## the cached value if one exists.
 
-## It is assumed the supplied matrix is inversible.
+## It is assumed the supplied matrix is invertible.
 
 ## Usage examples:
 # > a <- matrix(c(1, 1, 0, 1, 0, 1, 0, 1, 0), 3, 3) # creates 3x3 a matrix `a`
